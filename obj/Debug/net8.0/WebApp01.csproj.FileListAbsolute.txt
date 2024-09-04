@@ -23,3 +23,4 @@ D:\Programas_nao_eliminar\ASP_NET_8_0_401\WebApp01\obj\Debug\net8.0\refint\WebAp
 D:\Programas_nao_eliminar\ASP_NET_8_0_401\WebApp01\obj\Debug\net8.0\WebApp01.pdb
 D:\Programas_nao_eliminar\ASP_NET_8_0_401\WebApp01\obj\Debug\net8.0\WebApp01.genruntimeconfig.cache
 D:\Programas_nao_eliminar\ASP_NET_8_0_401\WebApp01\obj\Debug\net8.0\ref\WebApp01.dll
+D:\Programas_nao_eliminar\ASP_NET_8_0_401\WebApp01\obj\Debug\net8.0\WebApp01.sourcelink.json
